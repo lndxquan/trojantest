@@ -11,7 +11,7 @@ cat > /etc/trojan/server.conf <<-EOF
     "local_addr": "0.0.0.0",
     "local_port": 443,
     "password": [
-        "${trojan_passwd}"
+        "Hb060714@709"
     ],
     "log_level": 1,
 	"ssl": {
